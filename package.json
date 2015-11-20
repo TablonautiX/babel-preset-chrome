@@ -1,0 +1,25 @@
+{
+  "name": "babel-preset-chrome",
+  "version": "1.0.0",
+  "description": "Babel preset for chrome for version 46+.",
+  "author": "David Steinkopff <d.steinkopff@tablonautix.com>",
+  "license": "MIT",
+  "repository": "https://github.com/TablonautiX/babel-preset-chrome",
+  "main": "index.js",
+  "dependencies": {
+    "babel-plugin-transform-es2015-function-name": "^6.1.18",
+    "babel-plugin-transform-es2015-for-of": "^6.1.18",
+    "babel-plugin-transform-es2015-sticky-regex": "^6.1.18",
+    "babel-plugin-transform-es2015-unicode-regex": "^6.1.18",
+    "babel-plugin-check-es2015-constants": "^6.1.18",
+    "babel-plugin-transform-es2015-parameters": "^6.1.18",
+    "babel-plugin-transform-es2015-destructuring": "^6.1.18",
+    "babel-plugin-transform-es2015-block-scoping": "^6.1.18",
+    "babel-plugin-transform-es2015-typeof-symbol": "^6.1.18",
+    "babel-plugin-transform-es2015-modules-commonjs": "^6.1.18",
+    "babel-plugin-transform-regenerator": "^6.1.18"
+  },
+  "devDependencies": {
+    "babel-helper-transform-fixture-test-runner": "^6.1.18"
+  }
+}

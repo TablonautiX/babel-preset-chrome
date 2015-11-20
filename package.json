@@ -8,6 +8,7 @@
   "main": "index.js",
   "dependencies": {
     "babel-plugin-transform-es2015-function-name": "^6.1.18",
+    "babel-plugin-transform-es2015-arrow-functions": "^6.1.18",
     "babel-plugin-transform-es2015-for-of": "^6.1.18",
     "babel-plugin-transform-es2015-sticky-regex": "^6.1.18",
     "babel-plugin-transform-es2015-unicode-regex": "^6.1.18",
